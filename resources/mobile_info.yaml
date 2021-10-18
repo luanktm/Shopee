@@ -1,0 +1,9 @@
+device_info:
+  luan_device: 
+    deviceName: emulator-5554
+    platformName: android
+    platformVersion: '11'
+    app: D:/shopeeApp/Shopee.apk
+    newCommandTimeout: 400
+    noReset: False
+    autoGrantPermissions: True
